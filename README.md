@@ -12,3 +12,7 @@
 ## UML CASE
 
 ![output](https://github.com/batuhansyl25/credit_system/blob/main/img/umlcase.png?raw=true)
+
+## SWAGGER Uİ
+
+![output](https://github.com/batuhansyl25/credit_system/blob/main/img/swagger.png?raw=true)
