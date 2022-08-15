@@ -10,3 +10,5 @@
 ###### 2. Monthly income and credit limit are related
 
 ## UML CASE
+
+![output](https://github.com/batuhansyl25/credit_system/blob/main/img/umlcase.png?raw=true)
